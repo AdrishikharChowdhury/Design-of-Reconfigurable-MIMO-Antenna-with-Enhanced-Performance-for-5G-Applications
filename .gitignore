@@ -1,0 +1,12 @@
+# Ansys / HFSS simulation results & lock files
+*.aedtresults/
+*.lock
+*.auto
+
+# Python & Jupyter Notebook cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS junk files
+.DS_Store
+Thumbs.db
